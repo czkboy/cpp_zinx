@@ -16,7 +16,8 @@
 #include <string.h>
 #include <ctype.h>
 #include <errno.h>
-#include <malloc.h>
+#include <memory>
+#include <sys/malloc.h>
 #include <netinet/in.h>
 #include <arpa/inet.h>
 #include <sys/ioctl.h>

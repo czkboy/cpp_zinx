@@ -1,9 +1,7 @@
 // @Author czkboy
 // @Email czkboy000229@gmail.com
 
-// This file has not been used
 #pragma once
-#include "Channel.h"
 #include <pthread.h>
 #include <functional>
 #include <memory>

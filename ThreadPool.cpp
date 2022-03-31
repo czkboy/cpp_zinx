@@ -2,7 +2,6 @@
 // @Email czkboy000229@gmail.com
 
 
-// This file has not been used
 #include "ThreadPool.h"
 
 pthread_mutex_t ThreadPool::lock = PTHREAD_MUTEX_INITIALIZER;
